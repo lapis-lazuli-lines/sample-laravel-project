@@ -205,12 +205,3 @@ vendor/bin/psalm
 ```sh
 vendor/bin/phpstan analyse
 ```
-
-<a name="contributing"></a>
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-<a name="license"></a>
-## License
-Velflix is an open-sourced software licensed under [the MIT license](https://github.com/josuapsianturi/velflix/blob/main/LICENSE)
