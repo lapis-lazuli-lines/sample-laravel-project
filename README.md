@@ -16,7 +16,6 @@ Velflix is a Laravel [Netflix](https://netflix.com) clone project using TALL sta
 * [Installation](#installation)
 * [Testing](#testing)
 * [Contributing](#contributing)
-* [License](#license)
 
 <a name="screenshots"></a>
 ## Screenshots
